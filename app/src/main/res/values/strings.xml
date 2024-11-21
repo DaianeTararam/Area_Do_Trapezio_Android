@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Area do Trapezio</string>
+    <string name="etBaseMaior">Base maior</string>
+    <string name="etAltura">Altura</string>
+    <string name="etBaseMenor">Base menor</string>
+    <string name="tvArea">Área: </string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="tvTituto">Calcule a área do trapézio</string>
+
+</resources>
